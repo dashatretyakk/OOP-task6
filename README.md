@@ -1,1 +1,1 @@
-# OOP-task6
+6. Написати імплементацію алгоритму Non-blocking Michael-Scott queue algorithm
